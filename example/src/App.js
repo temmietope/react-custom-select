@@ -8,7 +8,7 @@ const App = () => {
   ]
   const [address, setAddress] = useState('')
   const updateSelect = (key, name) => {
-    console.log(key, name)
+    // console.log(key, name)
     setAddress(key)
   }
   return (
