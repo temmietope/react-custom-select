@@ -1,7 +1,5 @@
 import React, { useState } from 'react'
-
 import ReactSelect from 'react-custom-select'
-import 'react-custom-select/dist/index.css'
 
 const App = () => {
   const locations = [
